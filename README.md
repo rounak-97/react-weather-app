@@ -1,6 +1,6 @@
 # React Weather App
 
-This project is a **React Weather Application** developed as part of the **React 2nd Assessment Machine Test**.
+This project is a **React Weather Application**
 
 ---
 
@@ -57,4 +57,3 @@ npm run dev
 
 ## Author
 **Rounak Kantha**  
-React 2nd Assessment – Weather App
