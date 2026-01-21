@@ -60,7 +60,7 @@ npm run dev
 
 ## Hosting
 
-Live URL ➜ ""
+Live URL ➜ "https://react-weather-app-three-woad.vercel.app/"
 
 ------------------------------------------------------------------------
 
